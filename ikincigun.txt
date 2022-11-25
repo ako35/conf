@@ -22,4 +22,7 @@ Git  Github ucuncu gun EROL BRANCH ilk deneme
 
 EROL BRANCH IKINCI EKLEME
 
+MASTER BRANCH IKINCI EKLEME
+
+
 
