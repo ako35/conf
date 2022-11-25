@@ -20,4 +20,6 @@ MASTER BRANCH YENI EKLEME
 
 Git  Github ucuncu gun EROL BRANCH ilk deneme
 
+MASTER BRANCH IKINCI EKLEME
+
 
